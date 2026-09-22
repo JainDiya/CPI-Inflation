@@ -124,7 +124,7 @@ Rural + Urban CPI rose every year from 2016–2023, with 2021 recording the shar
 ### 03. Food Basket Volatility
 **Question:** How did the broader food-basket category move month-on-month over the 12 months ending May 2023, and which sub-category contributed most?
 
-![Food Basket Trends](images/insight3_food_basket.png)
+![Food Basket Trends](images/insight3_foodbasket.png)
 
 Vegetables emerged as the most volatile food sub-category month-to-month, driven by seasonal supply swings.
 
