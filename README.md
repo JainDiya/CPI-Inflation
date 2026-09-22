@@ -106,7 +106,7 @@ Fuel & Light and Transport & Communication indices show a moderately strong posi
 ### 01. Broader Category Contribution
 **Question:** Which broader category has the highest contribution towards the CPI calculation?
 
-![Category Contribution](images/insight1_category_contribution.png)
+![Category Contribution](images/insight1_category_contribution.png.png)
 
 Food is the largest contributor to the CPI basket (~44%), followed by Luxury items (~15%) and Clothing (~11%).
 
