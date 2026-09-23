@@ -148,6 +148,41 @@ Fuel & Light and Transport & Communication show a moderately strong positive cor
 
 ---
 
+## 🔍 Key Takeaways at a Glance
+
+| Metric | Finding |
+|---|---|
+| Top CPI contributor | Food (~44% of basket) |
+| Highest YoY inflation year | 2021 (~6.65%) |
+| COVID-year food inflation | ~7.8% (up from ~4.2% in 2019) |
+| Most volatile food sub-category | Vegetables |
+| Fuel–Transport correlation | r ≈ 0.67 (moderately strong) |
+
+---
+
+## 🧠 Challenges & Learnings
+
+- Handling inconsistent category labels across years required careful standardization in Power Query before classification.
+- Unpivoting the wide-format CPI data was essential to make it PivotTable-friendly — this was the biggest structural change to the raw dataset.
+- Calculating year-on-year % change and correlation directly in Excel (rather than a coding tool) reinforced core formula-based analytics skills.
+
+---
+
+## 🚀 How to Explore This Project
+
+1. Download `CPI_Inflation_Analysis.xlsx` from this repository.
+2. Open the **Dashboard** sheet for a summary view of all five insights.
+3. Check individual **Insight1–Insight5** sheets for the underlying PivotTables behind each chart.
+4. Review the **Unpivot** and **Raw Data** sheets to see the Power Query transformation steps.
+
+---
+
+## 📈 Future Improvements
+
+- Extend the analysis with more recent CPI data as it's released.
+- Build an interactive Power BI dashboard version of the same insights.
+- Add state-wise CPI comparison in addition to the current Rural/Urban/Combined breakdown.
+
 
 ## 📂 Repository Structure
 ```
